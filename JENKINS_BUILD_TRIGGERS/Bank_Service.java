@@ -1,4 +1,4 @@
-public class BankService {
+public class Bank_Service {
 
     // Nested static class
     static class BankAccount {
