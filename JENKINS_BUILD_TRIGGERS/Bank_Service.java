@@ -38,7 +38,7 @@ public class Bank_Service {
     public static void main(String[] args) {
 
         // Create account
-        BankAccount acc = new BankAccount(7000);
+        BankAccount acc = new BankAccount(8000);
 
         System.out.println("Initial Balance: " + acc.getBalance());
 
